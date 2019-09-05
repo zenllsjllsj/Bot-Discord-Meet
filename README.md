@@ -5,7 +5,7 @@ Simple example for implement discord bot by using discord.js
 
 # Getting started
 ```javascript
-$ git clone https://github.com/up2code/sample-bot.git
+$ git clone https://github.com/zenllsjllsj/Bot-Discord-Meet.git
 $ npm install
 ```
 Find or create your discord bot token [here](https://discordapp.com/developers/applications/me)
